@@ -1,5 +1,4 @@
-import {Client, Events} from 'discord.js';
-import { REST } from '@discordjs/rest';
+import {Client, Events, REST} from 'discord.js';
 import { CommandList } from './../commands/_CommandList';
 import { Routes } from 'discord-api-types/v9';
 

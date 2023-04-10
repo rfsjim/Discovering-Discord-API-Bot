@@ -1,5 +1,4 @@
-import { SlashCommandBuilder } from "@discordjs/builders";
-import { EmbedBuilder, CommandInteraction} from "discord.js";
+import { EmbedBuilder, CommandInteraction, SlashCommandBuilder} from "discord.js";
 import { CommandInt } from "../types/CommandInt";
 import { getCamperData } from "../modules/getCamperData";
 import { updateCamperData } from "../modules/updateCamperData";

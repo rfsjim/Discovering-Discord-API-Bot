@@ -1,5 +1,4 @@
-import { EmbedBuilder } from "@discordjs/builders";
-import { SlashCommandBuilder } from "discord.js";
+import { SlashCommandBuilder, EmbedBuilder } from "discord.js";
 import { CommandInt } from "../types/CommandInt";
 
 export const help:CommandInt = {

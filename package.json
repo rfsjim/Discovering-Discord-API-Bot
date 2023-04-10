@@ -11,10 +11,7 @@
   "author": "James",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/builders": "^1.6.1",
-    "@discordjs/rest": "^1.7.0",
     "@types/node": "^18.15.11",
-    "discord-api-types": "^0.37.37",
     "discord.js": "^14.9.0",
     "mongoose": "^7.0.3",
     "ts-node": "^10.9.1",
