@@ -6,6 +6,6 @@ export default {
         .setDescription('Provides information about the server'),
     run: async (interaction:CommandInteraction) => {
         await interaction.reply(
-            `This server is ${interaction.guild?.name} and has ${interaction.guild?.memberCount} members.`);
+            `This server is ${interaction.guild?.name}\nTotal members: ${interaction.guild?.memberCount}`);
     }
 };
