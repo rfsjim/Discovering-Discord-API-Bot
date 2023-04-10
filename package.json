@@ -1,0 +1,26 @@
+{
+  "name": "discord-pinkukoneko",
+  "version": "1.0.0",
+  "description": "Discord Bot for a cat based rpg chat game",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "James",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.1",
+    "@discordjs/rest": "^1.7.0",
+    "@types/node": "^18.15.11",
+    "discord-api-types": "^0.37.37",
+    "discord.js": "^14.9.0",
+    "mongoose": "^7.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
