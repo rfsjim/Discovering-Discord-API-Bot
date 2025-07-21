@@ -47,3 +47,5 @@ Posts a random dev tip (you could curate your own JSON/Markdown file or pull fro
 Give badges for milestones like “First PR”, “10 Pomodoros completed”, “100 lines of code today”, etc.
 - Quote of the Day
 /qotd — Shares a random motivational quote or dev-related wisdom.
+
+Or Or… OR… hear me out — we base the entire bot’s personality on me. I mean, think about it: charm, intelligence, devastating good looks, a deeply complex emotional core I refuse to acknowledge… It practically codes itself, Lana, LANA, LAAANAAAA!!!
